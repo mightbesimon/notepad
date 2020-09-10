@@ -56,7 +56,7 @@ public class JNotePad extends JFrame {
 	private JPopupMenu popUpMenu;
 
 	public JNotePad() {
-		super("New JTextFile");
+		super("untitled");
 		setUpUIComponent();
 		setUpEventListener();
 		setVisible(true);

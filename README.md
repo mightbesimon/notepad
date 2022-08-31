@@ -1,5 +1,7 @@
 # JNotePad #
 
+![thumbnail](thumbnail.png)
+
 - [x] Menu Bar Items
 - [x] Fonts
 - [x] Save | SaveAs
